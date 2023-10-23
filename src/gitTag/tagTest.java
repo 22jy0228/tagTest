@@ -7,6 +7,7 @@ public class tagTest {
 		System.out.println("日本電子専門学校情報システム開発科");
 		System.out.println("Hello World");
 		System.out.println("おはようございます");
+		System.out.println("こんにちは");
 	}
 
 }
